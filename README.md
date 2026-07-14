@@ -103,8 +103,8 @@ I'm **DICKENS OKOTH**, a **Software Engineering student** currently sharpening m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DICKENSOKOTH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://githubreadmestats.vercel.app/apiusername=DICKENSOKOTH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://githubreadmestats.vercel.app/api/toplangs/username=DICKENSOKOTH&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
 <br/>
 
@@ -115,8 +115,6 @@ I'm **DICKENS OKOTH**, a **Software Engineering student** currently sharpening m
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DICKENSOKOTH&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
-
-> ⚠️ **Note:** these stat cards only pull correctly once `[YOUR_GITHUB_USERNAME]` is replaced everywhere with your real GitHub username (all 4 spots above). They also only count **public** repos, can take a minute to refresh after profile changes, and occasionally rate-limit if the free API is under heavy load — if a card looks broken, refresh the page after a minute.
 
 <br/>
 
