@@ -7,17 +7,17 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[GITHUB_URL]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/dickens-okoth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DICKENSOKOTH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="[TWITTER_URL]"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="[YOUTUBE_URL]"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="[MEDIUM_URL]"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="[DEVTO_URL]"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="[PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-4B32C3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dickensokoth60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=DICKENSOKOTH&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -28,9 +28,9 @@
 
 > **[YOUR TAGLINE / MOTTO — e.g. "Turning complex problems into elegant code."]**
 
-I'm **[YOUR FULL NAME]**, a **[YOUR JOB TITLE]** at **[YOUR COMPANY]** with **[X]+ years** of experience designing and shipping production-grade software. I specialize in **[PRIMARY DOMAIN — e.g. Backend Systems, Full-Stack Development, Distributed Systems]**, and I'm known for **[WHAT YOU'RE KNOWN FOR — e.g. architecting fault-tolerant microservices that scale to millions of users]**. Currently, I'm focused on **[CURRENT FOCUS/PROJECT]**.
+I'm **DICKENS OKOTH**, a **SOFTWARE ENGINEER** at **[YOUR COMPANY]** with **[X]+ years** of experience designing and shipping production-grade software. I specialize in **[PRIMARY DOMAIN — e.g. Backend Systems, Full-Stack Development, Distributed Systems]**, and I'm known for **[WHAT YOU'RE KNOWN FOR — e.g. architecting fault-tolerant microservices that scale to millions of users]**. Currently, I'm focused on **[CURRENT FOCUS/PROJECT]**.
 
-📍 Based in **[CITY, COUNTRY]** &nbsp;|&nbsp; 🎓 **[DEGREE, UNIVERSITY]** &nbsp;|&nbsp; 💼 Open to **[Speaking / Mentoring / Collaboration / Consulting / Hiring]**
+📍 Based in **NAIROBI,KENYA** &nbsp;|&nbsp; 🎓 **[DEGREE, UNIVERSITY]** &nbsp;|&nbsp; 💼 Open to **[Speaking / Mentoring / Collaboration / Consulting / Hiring]**
 
 <br/>
 
@@ -38,9 +38,9 @@ I'm **[YOUR FULL NAME]**, a **[YOUR JOB TITLE]** at **[YOUR COMPANY]** with **[X
 <table align="center">
 <tr>
 <td align="center"><b>🏢 Company</b><br/>[YOUR COMPANY]</td>
-<td align="center"><b>💼 Role</b><br/>[YOUR JOB TITLE]</td>
+<td align="center"><b>💼 Role</b><br/>SOFTWARE ENGINEER</td>
 <td align="center"><b>📅 Experience</b><br/>[X] Years</td>
-<td align="center"><b>🌍 Location</b><br/>[CITY, COUNTRY]</td>
+<td align="center"><b>🌍 Location</b><br/>NAIROBI,KENYA</td>
 </tr>
 </table>
 
@@ -102,16 +102,16 @@ I'm **[YOUR FULL NAME]**, a **[YOUR JOB TITLE]** at **[YOUR COMPANY]** with **[X
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DICKENSOKOTH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DICKENSOKOTH&theme=tokyonight&hide_border=true" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DICKENSOKOTH&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
@@ -125,7 +125,7 @@ I'm **[YOUR FULL NAME]**, a **[YOUR JOB TITLE]** at **[YOUR COMPANY]** with **[X
 |:---:|:---:|:---:|
 | ▶️ YouTube | Subscribers | **[YOUTUBE_SUBS]** |
 | ✍️ Blog / Medium | Readers | **[BLOG_READERS]** |
-| 📦 GitHub | Public Repos | **[REPO_COUNT]** |
+| 📦 GitHub | Public Repos | **15** |
 | 📝 Articles / Videos | Published | **[CONTENT_COUNT]** |
 | ⚡ Systems | Scale | **[DATA_SCALE — e.g. "50TB/month processed"]** |
 
@@ -209,6 +209,6 @@ I'm open to **[Speaking / Mentoring / Open Source Collaboration / Consulting / F
 
 ⭐ **If you find my work valuable, consider starring my repositories!** ⭐
 
-_Last updated: [MONTH YEAR]_
+_Last updated: JULY,2026_
 
 </div>
