@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BDICKENS+OKOTH%5D;SOFTWARE+ENGINEER+%40+%5BYOUR+COMPANY%5D;I+build+scalable+systems+%26+ship+clean+code" alt="Typing SVG" />
 
 
+
+
 <br/>
 
 <!-- SOCIAL BADGES -->
