@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=Hi+/+¡Bienvenidos+a+mi+perfil!+%F0%9F%91%8B%2C+I'm+DICKENS+OKOTH;SOFTWARE+ENGINEER+%40+YOUR_COMPANY;I+build+scalable+systems+%26+ship+clean+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=¡Bienvenidos+a+mi+perfil!+%F0%9F%91%8B%2C+I'm+DICKENS+OKOTH;SOFTWARE+ENGINEER+%40+YOUR_COMPANY;I+build+scalable+systems+%26+ship+clean+code" alt="Typing SVG" />
 <br/>
 
 <!-- SOCIAL BADGES -->
