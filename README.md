@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DICKENSOKOTH&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://visitcount.itsvg.in/api?id=DICKENSOKOTH&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views" />
 
 </div>
 
