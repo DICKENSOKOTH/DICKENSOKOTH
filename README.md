@@ -8,7 +8,7 @@
 
 ## $ cat about_me.txt
 
-> **"It works on my machine — so I containerized my machine and shipped it to prod. You're welcome."**
+> **"It works on my machine - so I containerized my machine and shipped it to prod. You're welcome."**
 "It works on my machine - so I containerized my machine and shipped it to prod. You're welcome."<br><br>I'm DICKENS OKOTH, a Software Engineer who spends an unhealthy amount of time thinking about clean architecture, containerized infrastructure, and why my Go code compiles faster than my coffee brews. I build across the full stack - REST APIs, ML models, React frontends, and Dockerized systems that actually behave the same in every environment - because apparently I enjoy suffering across multiple domains simultaneously.<br><br>My stack is Python, Go, React, and Docker, my best friend is a terminal, my second best friend is a good Dockerfile, and my love language is a well-written README.md. I care deeply about code that's readable, systems that scale without breaking a sweat, and variable names that aren't just x, x2, and x_final_FINAL.<br><br>When I'm not shipping features, I'm probably down a rabbit hole optimizing something that didn't need optimizing, reading about distributed systems at midnight, or arguing with myself about whether this deserves its own microservice (it doesn't, but I'll do it anyway).<br><br>Currently focused on Qinica-a medical supply tracking system and always open to collaborating on problems that are genuinely hard to solve.<br><br>📍 NAIROBI,KENYA |  ☁️ Backend · Full-Stack · ML · Containers  |  💼 Open to [Roles / Collabs / Consulting]
 
 
