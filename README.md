@@ -3,7 +3,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%C2%A1Bienvenidos+a+mi+perfil!+%F0%9F%91%8B;Software+Engineer+%7C+Backend+%26+Full-Stack;Python+%7C+Go+%7C+React+%7C+Docker;I+build+things+that+work+in+prod+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
+
+<br/>
+
 ## $ cat about_me.txt
+
+> **"It works on my machine — so I containerized my machine and shipped it to prod. You're welcome."**
 "It works on my machine - so I containerized my machine and shipped it to prod. You're welcome."<br><br>I'm DICKENS OKOTH, a Software Engineer who spends an unhealthy amount of time thinking about clean architecture, containerized infrastructure, and why my Go code compiles faster than my coffee brews. I build across the full stack - REST APIs, ML models, React frontends, and Dockerized systems that actually behave the same in every environment - because apparently I enjoy suffering across multiple domains simultaneously.<br><br>My stack is Python, Go, React, and Docker, my best friend is a terminal, my second best friend is a good Dockerfile, and my love language is a well-written README.md. I care deeply about code that's readable, systems that scale without breaking a sweat, and variable names that aren't just x, x2, and x_final_FINAL.<br><br>When I'm not shipping features, I'm probably down a rabbit hole optimizing something that didn't need optimizing, reading about distributed systems at midnight, or arguing with myself about whether this deserves its own microservice (it doesn't, but I'll do it anyway).<br><br>Currently focused on Qinica-a medical supply tracking system and always open to collaborating on problems that are genuinely hard to solve.<br><br>📍 NAIROBI,KENYA |  ☁️ Backend · Full-Stack · ML · Containers  |  💼 Open to [Roles / Collabs / Consulting]
 
 
