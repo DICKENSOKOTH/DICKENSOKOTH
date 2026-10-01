@@ -22,14 +22,20 @@
 ![](https://streak-stats.demolab.com/?user=dickensokoth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dickensokoth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dickensokoth&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dickensokoth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 Trophies &nbsp;·&nbsp; Quotes &nbsp;·&nbsp; Contributions
+
+<img src="https://github-profile-trophy.vercel.app/?username=DICKENSOKOTH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="49%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=DICKENSOKOTH&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="49%" />
+
+</div>
 
 ---
 <div align="center">
