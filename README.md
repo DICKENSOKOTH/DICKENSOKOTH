@@ -27,12 +27,11 @@
 <div align="center">
 
 ---
-
 <div align="center">
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=DICKENSOKOTH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DICKENSOKOTH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
 
 <br/><br/>
 
@@ -41,9 +40,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" width="70%"/>
 
 </div>
-
----
----
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=DICKENSOKOTH&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
