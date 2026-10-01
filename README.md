@@ -26,17 +26,23 @@
 
 <div align="center">
 
-## 🏆 Trophies &nbsp;·&nbsp; Quotes &nbsp;·&nbsp; Contributions
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=DICKENSOKOTH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+<div align="center">
 
-<br/>
+## 🏆 Trophies
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="49%" />
-<img src="https://github-contributor-stats.vercel.app/api?username=DICKENSOKOTH&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=DICKENSOKOTH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" width="100%"/>
+
+<br/><br/>
+
+## ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" width="70%"/>
 
 </div>
 
+---
 ---
 <div align="center">
 
