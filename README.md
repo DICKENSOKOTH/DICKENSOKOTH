@@ -25,13 +25,11 @@
 <img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&height=200" width="34%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false&height=200" width="28%" /><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&height=200" width="34%" />
 
 </div>
-
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=DICKENSOKOTH&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views" />
+<img src="https://hits.sh/github.com/DICKENSOKOTH.svg?style=for-the-badge&label=Profile+Views&color=58A6FF" alt="Profile Views"/>
 
 </div>
-
 <br/>
 
   ---
