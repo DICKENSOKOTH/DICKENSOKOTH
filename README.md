@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&height=200" width="34%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false&height=200" width="28%" /><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&height=200" width="34%" />
+<img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&height=250" width="34%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false&height=200" width="28%" /><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&height=200" width="34%" />
 
 </div>
 <div align="center">
