@@ -12,6 +12,7 @@
 "It works on my machine - so I containerized my machine and shipped it to prod. You're welcome."<br><br>I'm DICKENS OKOTH, a Software Engineer who spends an unhealthy amount of time thinking about clean architecture, containerized infrastructure, and why my Go code compiles faster than my coffee brews. I build across the full stack - REST APIs, ML models, React frontends, and Dockerized systems that actually behave the same in every environment - because apparently I enjoy suffering across multiple domains simultaneously.<br><br>My stack is Python, Go, React, and Docker, my best friend is a terminal, my second best friend is a good Dockerfile, and my love language is a well-written README.md. I care deeply about code that's readable, systems that scale without breaking a sweat, and variable names that aren't just x, x2, and x_final_FINAL.<br><br>When I'm not shipping features, I'm probably down a rabbit hole optimizing something that didn't need optimizing, reading about distributed systems at midnight, or arguing with myself about whether this deserves its own microservice (it doesn't, but I'll do it anyway).<br><br>Currently focused on Qinica-a medical supply tracking system and always open to collaborating on problems that are genuinely hard to solve.<br><br>📍 NAIROBI,KENYA |  ☁️ Backend · Full-Stack · ML · Containers  |  💼 Open to [Roles / Collabs / Consulting]
 
 <div allign="center">
+  
 ## $ cat Socials.txt:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1399379032759336962) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dickens-okoth) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@5oftw4re) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimicvon@gmail.com) 
@@ -58,6 +59,7 @@
 </div>
 
 <div align="center">
+  
 ## $ cat GitHub_Stats.txt
 
 <img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&height=200" width="34%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false&height=200" width="28%" /><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&height=200" width="34%" />
