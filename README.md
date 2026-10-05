@@ -14,11 +14,11 @@
 
 ## $ cat Socials.txt:
 <div allign="center">
->[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1399379032759336962) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dickens-okoth) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@5oftw4re) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimicvon@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1399379032759336962) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dickens-okoth) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@5oftw4re) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimicvon@gmail.com) 
 </div>
 </br>
 ## $ cat techstack.txt
-
+<div>
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -55,8 +55,9 @@
 **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<div align="center">
+</div>
 
+<div align="center">
 ## $ cat GitHub_Stats.txt
 
 <img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&height=200" width="34%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false&height=200" width="28%" /><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&height=200" width="34%" />
