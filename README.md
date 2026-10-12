@@ -13,7 +13,7 @@
 
 <div allign="center">
   
-## $ cat Socials.txt:
+## $ cat socials.txt:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1399379032759336962) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dickens-okoth) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@5oftw4re) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimicvon@gmail.com) 
 </div>
@@ -67,11 +67,11 @@
 
 <div align="center">
   
-## $ cat GitHub_Stats.txt
+## $ cat github_stats.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false" width="32%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=dockerfile,yaml,markdown,shell" width="32%" />
+<img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false" width="32%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&layout=compact&langs_count=8" width="32%" />
 
 </div>
 <div align="center">
