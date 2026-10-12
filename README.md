@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=250&lines=%C2%A1Bienvenidos+a+mi+perfil!+%F0%9F%91%8B;I+build+systems+that+don%27t+break+at+3am...;...usually+%F0%9F%90%B3;Backend+%7C+Cloud+%7C+DevOps+%7C+AI%2FML;Python+%7C+Go+%7C+Rust+%7C+Docker+%7C+Kubernetes+%7C+AWS;Scroll+down.+It+gets+better+%F0%9F%91%87" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=%C2%A1Bienvenidos+a+mi+perfil!+%F0%9F%91%8B;I+build+systems+that+don%27t+break+at+3am...;...usually+%F0%9F%90%B3;Backend+%7C+Cloud+%7C+DevOps+%7C+AI%2FML;Python+%7C+Go+%7C+Rust+%7C+Docker+%7C+Kubernetes+%7C+AWS;Scroll+down.+It+gets+better+%F0%9F%91%87" alt="Typing SVG" />
 
 </div>
 
