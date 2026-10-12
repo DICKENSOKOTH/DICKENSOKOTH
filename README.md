@@ -69,7 +69,9 @@
   
 ## $ cat GitHub_Stats.txt
 
-<img src="https://github-readme-stats.vercel.app/api/stats/?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&height=200" width="34%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false&height=200" width="28%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&layout=compact&langs_count=8" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false" width="32%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=dockerfile,yaml,markdown,shell" width="32%" />
 
 </div>
 <div align="center">
