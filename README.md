@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false" width="32%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&layout=compact&langs_count=15" width="32%" />
+<img src="https://github-readme-stats.shion.dev/api?username=DICKENSOKOTH&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" /><img src="https://streak-stats.demolab.com/?user=DICKENSOKOTH&theme=dark&hide_border=false" width="32%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICKENSOKOTH&theme=dark&hide_border=false&layout=compact&langs_count=>1" width="32%" />
 
 </div>
 <div align="center">
